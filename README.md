@@ -9,7 +9,7 @@ Pentester Name (Cybersecurity Professional) = Anshu Kumari
 
 Program / Batch B084 = Networkwalks
 
-Date = 10 November 2026
+Date = 12 November 2026
 
 Modules completed = W2-PM1: Multiple Kali Tools # W2-PM-FINAL – Cybersecurity # Ethical Hacking Practical Report
 
