@@ -17,7 +17,7 @@
    Name Server: NS6136.HOSTGATOR.COM
    DNSSEC: unsigned
    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of whois database: 2026-11-12T11:02:33Z <<<
+>>> Last update of whois database: 2026-11-12T11:12:48Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 
@@ -103,7 +103,7 @@ Name Server: NS29.DOMAINCONTROL.COM
 Name Server: NS30.DOMAINCONTROL.COM
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2026-11-12T11:02:47Z <<<
+>>> Last update of WHOIS database: 2026-11-12T11:12:56Z <<<
 For more information on Whois status codes, please visit https://icann.org/epp
 
 TERMS OF USE: The data contained in this registrar's Whois database, while believed by the
